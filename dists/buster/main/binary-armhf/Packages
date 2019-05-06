@@ -1,0 +1,56 @@
+Package: linux-headers-4.19.9-stm32-r1
+Source: linux-upstream
+Version: 1
+Architecture: armhf
+Maintainer: peter <peter@BeagleBoard-X15.localdomain>
+Installed-Size: 71115
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-4.19.9-stm32-r1_1_armhf.deb
+Size: 10894560
+SHA256: 8d7191a42c7ac4a11b9fd657d35090649524d35bc75cae07598890a720908dd5
+SHA1: 976a80063df51247efea6fe38255b8602753beee
+MD5sum: f05cc194cfb3a95ed3d8f6fd6c7b37a6
+Description: Linux kernel headers for 4.19.9-stm32-r1 on armhf
+ This package provides kernel header files for 4.19.9-stm32-r1 on armhf
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-image-4.19.9-stm32-r1
+Source: linux-upstream
+Version: 1
+Architecture: armhf
+Maintainer: peter <peter@BeagleBoard-X15.localdomain>
+Installed-Size: 32156
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-4.19.9-stm32-r1_1_armhf.deb
+Size: 10540828
+SHA256: ce4f2f3b755ca8125882074cb9d70ad3ee3f886b22eaefe3e898fd22986d606e
+SHA1: e6ee662fcd0b353729a46b0f5e21cc8a9d4f7ba2
+MD5sum: d2a98c78d255e8da95db6a742c83bbbf
+Description: Linux kernel, version 4.19.9-stm32-r1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.19.9-stm32-r1.
+
+Package: linux-libc-dev
+Source: linux-upstream
+Version: 1
+Architecture: armhf
+Maintainer: peter <peter@BeagleBoard-X15.localdomain>
+Installed-Size: 5181
+Provides: linux-kernel-headers
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: devel
+Filename: pool/main/l/linux-upstream/linux-libc-dev_1_armhf.deb
+Size: 999248
+SHA256: 302dcd4d601ba9943eef294e2fb0132d5edeea4b99181259dc8ae45f61965590
+SHA1: 4914bbd2bb76b7d84093c9380f0ee9a529493ea8
+MD5sum: 197f60db6e73ac276b400a02ccfa9f68
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+

@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: buster
+Label: main
+Suite: stable
+Codename: buster
+Date: Mon, 06 May 2019 02:48:13 UTC
+Architectures: armhf
+Components: main
+Description: repository for stm32mp1 debian buster
+MD5Sum:
+ a3d638f4173807acc1f2614ef971a6f2 2048 main/binary-armhf/Packages
+ 8654afbdd2a2f41b734656487c38e58b 836 main/binary-armhf/Packages.gz
+ bc0534ec13d21ff9f9b981d99823ad1b 130 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/debian-installer/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/debian-installer/binary-armhf/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ b08675e0a2fe6697e6db1a4dddd17830 131 main/source/Release
+SHA1:
+ da7636633434d75cdea5563ec3cbeae54aa71dbf 2048 main/binary-armhf/Packages
+ 9b83f1a62c1a6713bf40f3e07eeaf377efa752bb 836 main/binary-armhf/Packages.gz
+ 8c78707fa430943292a4c7f27fef0c77ec1c210d 130 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/debian-installer/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/debian-installer/binary-armhf/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 32e51178c5b56f743622fab892c2f4d70bde627d 131 main/source/Release
+SHA256:
+ 39be5ae9a5abccc828a4d502439e1186ace182876004aaa05eb3230ea60ec77f 2048 main/binary-armhf/Packages
+ c412351bd214414529411b9f20d36ff8eef3b5e39b52c4a1f23f664ba79e3c65 836 main/binary-armhf/Packages.gz
+ 2815c0df61bd7bd328d132b579e76b82a37527532235eb4af279c0b0a92dd25d 130 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/debian-installer/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/debian-installer/binary-armhf/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 9a4711456efc0a4126c747614ad31eefc6af151ad365ad7f1d8378fd3668ea35 131 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEk1dqVCREUBIdFHHs3GEhV0o7+KwFAlzPoG0ACgkQ3GEhV0o7
++Kz8VxAAxG4aZqA6YTS2LhFvSz/w1dnxEEnkpsVjzEYci4xP7/OLpW+riuJt3KsK
+MarpApX2T3yv0aYvoIWt+VZmdD13iHBJP2tXTyV6klMaTpw+u0x1p08uqr6qJkK+
+Cp9TMTLWkdWPTIeHHarvehbp6T5ke5w9DaKo+os+RsXSr5rnvU2zMx70f3pRtSHN
+a/4npzU9tIg+ppzNnaMZgW3O069/Kq3Lh3MX36dEPQ7cehcxYNg8UsTO4+fxOL39
+K//JP1KTEf6t2vtTl0ftjLgn8vEhm1oXrtED2JyRwx0395wpfLuki2JcDgnhY23A
+6K9qHqfTl70JlnhUtqxR6IphWKvQ/n7yW6qDjUPqsxa2ERWJaRDnHUbFESZ/yNVO
+v8BRF3825Db5p0Ks31ldrK5UgjXwzpJk4cwVK68XrCWUH1VkncSWCPwi/8+BpMU9
+TnH5ZWXDAvsCeq+la5MrE02kk2fYQfr3pw1ngpdO0mWxbkwaDPLGUYvdbiEVDB+r
+ZFcRldM/a1fYwH8bPZuIjmJISVGlnrgDQupdXLL46TMNqNHrCrblmD+O+sNj93bN
+5e26dxCw8ZH+cAJtAioyTg7RlXGuw/0GIUsbFJKKG6nMSFQTHce57XMQgOqPSQdT
+USWFSqNNdBA5kdgsJVE9FKFP6OZaVsRJB7TN3oaxaE6rFym7eA4=
+=O8h9
+-----END PGP SIGNATURE-----
